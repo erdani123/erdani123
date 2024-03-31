@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @erdani123
+- 👀 I’m interested in proggraming games in unity and something about python or web development
+- 🌱 I’m currently learning unity 3d game
